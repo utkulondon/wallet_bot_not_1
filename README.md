@@ -1,6 +1,6 @@
 # Wallet Bot - Multi-Chain Trading Bot
 
-A powerful Telegram bot that supports multiple blockchain networks (Solana and TON) for wallet management, trading, and price alerts.
+Hey NOT Team ^^ , i did my best, however bot is not working at all :((((.  
 
 ## Features
 
